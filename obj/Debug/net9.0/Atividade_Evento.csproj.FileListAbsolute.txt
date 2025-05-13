@@ -1,0 +1,14 @@
+E:\Vscode_Arquivos\Atividade_Evento\bin\Debug\net9.0\Atividade_Evento.exe
+E:\Vscode_Arquivos\Atividade_Evento\bin\Debug\net9.0\Atividade_Evento.deps.json
+E:\Vscode_Arquivos\Atividade_Evento\bin\Debug\net9.0\Atividade_Evento.runtimeconfig.json
+E:\Vscode_Arquivos\Atividade_Evento\bin\Debug\net9.0\Atividade_Evento.dll
+E:\Vscode_Arquivos\Atividade_Evento\bin\Debug\net9.0\Atividade_Evento.pdb
+E:\Vscode_Arquivos\Atividade_Evento\obj\Debug\net9.0\Atividade_Evento.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vscode_Arquivos\Atividade_Evento\obj\Debug\net9.0\Atividade_Evento.AssemblyInfoInputs.cache
+E:\Vscode_Arquivos\Atividade_Evento\obj\Debug\net9.0\Atividade_Evento.AssemblyInfo.cs
+E:\Vscode_Arquivos\Atividade_Evento\obj\Debug\net9.0\Atividade_Evento.csproj.CoreCompileInputs.cache
+E:\Vscode_Arquivos\Atividade_Evento\obj\Debug\net9.0\Atividade_Evento.dll
+E:\Vscode_Arquivos\Atividade_Evento\obj\Debug\net9.0\refint\Atividade_Evento.dll
+E:\Vscode_Arquivos\Atividade_Evento\obj\Debug\net9.0\Atividade_Evento.pdb
+E:\Vscode_Arquivos\Atividade_Evento\obj\Debug\net9.0\Atividade_Evento.genruntimeconfig.cache
+E:\Vscode_Arquivos\Atividade_Evento\obj\Debug\net9.0\ref\Atividade_Evento.dll
