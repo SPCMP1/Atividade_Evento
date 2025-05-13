@@ -15,6 +15,8 @@ Pessoa p2 = new Pessoa("Ryan", 19, "Rua do Curio");
 Console.WriteLine($"\nNome:{p1.Nome}\nIdade:{p1.Idade}");
 Console.WriteLine($"\nNome:{p2.Nome}\nIdade:{p2.Idade}");
 
+p1.AdicionarPessoa("Leonardo");
+
 //===========================================================
 
 //==========================Evento==========================
